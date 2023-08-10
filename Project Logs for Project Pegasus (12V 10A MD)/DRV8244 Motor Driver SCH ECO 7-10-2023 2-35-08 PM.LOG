@@ -1,0 +1,61 @@
+Replace Part C1 CAP ELEC 100uF 68V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP ELEC 100uF 68V from Passive.IntLib
+Replace Part C2 CAP ELEC 100uF 68V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP ELEC 100uF 68V from Passive.IntLib
+Replace Part C3 CAP 1206 10uF 25V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 1206 10uF 25V from Passive.IntLib
+Replace Part C4 CAP 1206 10uF 25V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 1206 10uF 25V from Passive.IntLib
+Replace Part C5 CAP 0603 1uF 50V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 1uF 50V from Passive.IntLib
+Replace Part C6 CAP 0603 100nF 100V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 100nF 100V from Passive.IntLib
+Replace Part C7 CAP 0603 10nF 50V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 10nF 50V from Passive.IntLib
+Replace Part C8 CAP 0603 1nF 50V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 1nF 50V from Passive.IntLib
+Replace Part C9 CAP 0603 1nF 50V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 1nF 50V from Passive.IntLib
+Replace Part C10 CAP 0603 10nF 50V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 10nF 50V from Passive.IntLib
+Replace Part C11 CAP 0603 100nF 100V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 100nF 100V from Passive.IntLib
+Replace Part C12 CAP 0603 1uF 50V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 1uF 50V from Passive.IntLib
+Replace Part C13 CAP 0603 1nF 50V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 1nF 50V from Passive.IntLib
+Replace Part C14 CAP 0603 100nF 100V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 100nF 100V from Passive.IntLib
+Replace Part C15 CAP 0603 1nF 50V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 1nF 50V from Passive.IntLib
+Replace Part C16 CAP 0603 10nF 50V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with CAP 0603 10nF 50V from Passive.IntLib
+Replace Part D1 DDZ10C-7 in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with DDZ10C-7 from diode.IntLib
+Replace Part D2 LED 0805 Emerald in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with LED 0805 Emerald from diode.IntLib
+Replace Part D3 LED 0805 Emerald in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with LED 0805 Emerald from diode.IntLib
+Replace Part D4 LED 0805 Emerald in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with LED 0805 Emerald from diode.IntLib
+Replace Part D5 LED 0805 Red in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with LED 0805 Red from diode.IntLib
+Replace Part D6 LED 0805 Red in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with LED 0805 Red from diode.IntLib
+Replace Part D7 LED 0805 Blue in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with LED 0805 Blue from diode.IntLib
+Replace Part F1 Fuse Automotive holder in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with Fuse Automotive holder from Fuse.IntLib
+Replace Part F2 Fuse Automotive 25A 0287025.PXCN in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with Fuse Automotive 25A 0287025.PXCN from Fuse.IntLib
+Replace Part J1 XT60PW-M in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with XT60PW-M from Power connectors.IntLib
+Replace Part J2 Barrier Block 1x2 9.5mm with cover in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with Barrier Block 1x2 9.5mm with cover from Power connectors.IntLib
+Replace Part J3 JST XH2.5mm 1x6P in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with JST XH2.5mm 1x6P from Signal connectors.IntLib
+Replace Part L1 MHCC12050-1R0M-R7 in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with MHCC12050-1R0M-R7 from Passive.IntLib
+Replace Part MH1 Mounting Hole in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with Mounting Hole from Bypass, Testpoint and Holes.IntLib
+Replace Part MH2 Mounting Hole in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with Mounting Hole from Bypass, Testpoint and Holes.IntLib
+Replace Part MH3 Mounting Hole in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with Mounting Hole from Bypass, Testpoint and Holes.IntLib
+Replace Part MH4 Mounting Hole in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with Mounting Hole from Bypass, Testpoint and Holes.IntLib
+Replace Part Q1 HYG110P04LQ2C2 in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with HYG110P04LQ2C2 from Miscellaneous Transistor.IntLib
+Replace Part R1 RES 0603 100k 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 100k 1% from Passive.IntLib
+Replace Part R2 RES 0603 0R 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 0R 1% from Passive.IntLib
+Replace Part R3 RES 0603 100k 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 100k 1% from Passive.IntLib
+Replace Part R4 RES 0603 0R 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 0R 1% from Passive.IntLib
+Replace Part R5 RES 0603 0R 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 0R 1% from Passive.IntLib
+Replace Part R6 RES 0603 22k 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 22k 1% from Passive.IntLib
+Replace Part R7 RES 0603 750R 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 750R 1% from Passive.IntLib
+Replace Part R8 RES 0603 10k 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 10k 1% from Passive.IntLib
+Replace Part R9 RES 0603 1k 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 1k 1% from Passive.IntLib
+Replace Part R10 RES 0603 1k 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 1k 1% from Passive.IntLib
+Replace Part R11 RES 0603 1k 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 1k 1% from Passive.IntLib
+Replace Part R12 RES 0603 10k 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 10k 1% from Passive.IntLib
+Replace Part R13 RES 0603 1k 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 1k 1% from Passive.IntLib
+Replace Part R14 RES 0603 1k 1% in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with RES 0603 1k 1% from Passive.IntLib
+Replace Part RV1 VAR TH 14V 18V in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with VAR TH 14V 18V from Varistor.IntLib
+Replace Part TP1 TestPoint in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with TestPoint from Bypass, Testpoint and Holes.IntLib
+Replace Part TP2 TestPoint in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with TestPoint from Bypass, Testpoint and Holes.IntLib
+Replace Part TP3 TestPoint in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with TestPoint from Bypass, Testpoint and Holes.IntLib
+Replace Part TP4 TestPoint in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with TestPoint from Bypass, Testpoint and Holes.IntLib
+Replace Part TP5 TestPoint in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with TestPoint from Bypass, Testpoint and Holes.IntLib
+Replace Part TP6 TestPoint in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with TestPoint from Bypass, Testpoint and Holes.IntLib
+Replace Part TP7 TestPoint in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with TestPoint from Bypass, Testpoint and Holes.IntLib
+Replace Part TP8 TestPoint in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with TestPoint from Bypass, Testpoint and Holes.IntLib
+Replace Part TP9 TestPoint in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with TestPoint from Bypass, Testpoint and Holes.IntLib
+Replace Part TP10 TestPoint in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with TestPoint from Bypass, Testpoint and Holes.IntLib
+Replace Part U1 SSP1117 3V3 in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with SSP1117 3V3 from PMIC.IntLib
+Replace Part U2 DRV8244 in D:\Documents\Altium\Projects\Project Pegasus\DRV8244 Motor Driver.SchDoc with DRV8244 from PMIC.IntLib

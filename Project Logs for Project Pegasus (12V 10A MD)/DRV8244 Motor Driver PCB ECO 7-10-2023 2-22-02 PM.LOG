@@ -1,0 +1,50 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAP Electrolytic SMD G_10X10.3X10.2(CPOL-EU153CLV-1010) New Footprint=CAP Electrolytic SMD G_10X10.3X10.2(CPOL-EU153CLV-1010)
+Change Physical Footprint: Designator=C2 Old Footprint=CAP Electrolytic SMD G_10X10.3X10.2(CPOL-EU153CLV-1010) New Footprint=CAP Electrolytic SMD G_10X10.3X10.2(CPOL-EU153CLV-1010)
+Change Physical Footprint: Designator=C3 Old Footprint=CAP Ceramic SMD 1206 New Footprint=CAP Ceramic SMD 1206
+Change Physical Footprint: Designator=C4 Old Footprint=CAP Ceramic SMD 1206 New Footprint=CAP Ceramic SMD 1206
+Change Physical Footprint: Designator=C5 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C6 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C7 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C8 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C9 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C10 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C11 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C12 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C13 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C14 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C15 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=C16 Old Footprint=CAP Ceramic SMD 0603 New Footprint=CAP Ceramic SMD 0603
+Change Physical Footprint: Designator=D1 Old Footprint=Diode Single SMD SOD123 New Footprint=Diode Single SMD SOD123
+Change Physical Footprint: Designator=D2 Old Footprint=LED SMD 0805G New Footprint=LED SMD 0805G
+Change Physical Footprint: Designator=D3 Old Footprint=LED SMD 0805G New Footprint=LED SMD 0805G
+Change Physical Footprint: Designator=D4 Old Footprint=LED SMD 0805G New Footprint=LED SMD 0805G
+Change Physical Footprint: Designator=D5 Old Footprint=LED SMD 0805R New Footprint=LED SMD 0805R
+Change Physical Footprint: Designator=D6 Old Footprint=LED SMD 0805R New Footprint=LED SMD 0805R
+Change Physical Footprint: Designator=D7 Old Footprint=LED SMD 0805B New Footprint=LED SMD 0805B
+Change Physical Footprint: Designator=F1 Old Footprint=FUSE-TH_L19.8-W7.0_XF-508P-A New Footprint=FUSE-TH_L19.8-W7.0_XF-508P-A
+Change Physical Footprint: Designator=J1 Old Footprint=XT60PW-M New Footprint=XT60PW-M
+Change Physical Footprint: Designator=J2 Old Footprint=Connector screw terminal Block TH 1x2 9.5 WJ46-B New Footprint=Connector screw terminal Block TH 1x2 9.5 WJ46-B
+Change Physical Footprint: Designator=J3 Old Footprint=XH-6/2.5mm New Footprint=XH-6/2.5mm
+Change Physical Footprint: Designator=L1 Old Footprint=IND SMD SRP1265A New Footprint=IND SMD SRP1265A
+Change Physical Footprint: Designator=MH1 Old Footprint=Connector Mounting hole th 3.5mm New Footprint=Connector Mounting hole th 3.5mm
+Change Physical Footprint: Designator=MH2 Old Footprint=Connector Mounting hole th 3.5mm New Footprint=Connector Mounting hole th 3.5mm
+Change Physical Footprint: Designator=MH3 Old Footprint=Connector Mounting hole th 3.5mm New Footprint=Connector Mounting hole th 3.5mm
+Change Physical Footprint: Designator=MH4 Old Footprint=Connector Mounting hole th 3.5mm New Footprint=Connector Mounting hole th 3.5mm
+Change Physical Footprint: Designator=Q1 Old Footprint=PQFN 5x6 New Footprint=PQFN 5x6
+Change Physical Footprint: Designator=R1 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R2 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R3 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R4 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R5 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R6 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R7 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R8 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R9 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R10 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R11 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R12 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R13 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=R14 Old Footprint=RES SMD 0603 New Footprint=RES SMD 0603
+Change Physical Footprint: Designator=RV1 Old Footprint=VAR 7.5mm New Footprint=VAR 7.5mm
+Change Physical Footprint: Designator=U1 Old Footprint=Linear reagulator SMD AMS1117 New Footprint=Linear reagulator SMD AMS1117
+Change Physical Footprint: Designator=U2 Old Footprint=DRV8244 New Footprint=DRV8244

@@ -1,0 +1,30 @@
+Added Component: Designator=TP1(TestPoint Surface 0.8mm)
+Added Component: Designator=TP2(TestPoint Surface 0.8mm)
+Added Component: Designator=TP3(TestPoint Surface 0.8mm)
+Added Component: Designator=TP4(TestPoint Surface 0.8mm)
+Added Component: Designator=TP5(TestPoint Surface 0.8mm)
+Added Component: Designator=TP6(TestPoint Surface 0.8mm)
+Added Component: Designator=TP7(TestPoint Surface 0.8mm)
+Added Component: Designator=TP8(TestPoint Surface 0.8mm)
+Added Component: Designator=TP9(TestPoint Surface 0.8mm)
+Added Component: Designator=TP10(TestPoint Surface 0.8mm)
+Added Pin To Net: NetName=VM Pin=TP1-1
+Added Pin To Net: NetName=+3V3 Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=DIR Pin=TP4-1
+Added Pin To Net: NetName=SPD Pin=TP5-1
+Added Pin To Net: NetName=OUT1 Pin=TP6-1
+Added Pin To Net: NetName=nSLP Pin=TP7-1
+Added Pin To Net: NetName=CRNT_SNS Pin=TP8-1
+Added Pin To Net: NetName=OUT2 Pin=TP9-1
+Added Pin To Net: NetName=nFAULT Pin=TP10-1
+Added Member To Class: ClassName=DRV8244 Motor Driver Member=Component TP1 TestPoint
+Added Member To Class: ClassName=DRV8244 Motor Driver Member=Component TP2 TestPoint
+Added Member To Class: ClassName=DRV8244 Motor Driver Member=Component TP3 TestPoint
+Added Member To Class: ClassName=DRV8244 Motor Driver Member=Component TP4 TestPoint
+Added Member To Class: ClassName=DRV8244 Motor Driver Member=Component TP5 TestPoint
+Added Member To Class: ClassName=DRV8244 Motor Driver Member=Component TP6 TestPoint
+Added Member To Class: ClassName=DRV8244 Motor Driver Member=Component TP7 TestPoint
+Added Member To Class: ClassName=DRV8244 Motor Driver Member=Component TP8 TestPoint
+Added Member To Class: ClassName=DRV8244 Motor Driver Member=Component TP9 TestPoint
+Added Member To Class: ClassName=DRV8244 Motor Driver Member=Component TP10 TestPoint

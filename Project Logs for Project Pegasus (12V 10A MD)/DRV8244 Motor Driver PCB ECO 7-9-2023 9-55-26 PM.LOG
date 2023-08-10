@@ -1,0 +1,17 @@
+Change Component DesignItemId : Designator=J3 Old DesignItemId=JST 6 New DesignItemId=JST XH2.5mm 1x6P
+Change Component Footprint: Designator=J1 Old Footprint=Connector screw terminal Block TH 1x2 9.5 WJ46-B New Footprint=XT60PW-M
+Change Component Comment : Designator=J1 Old Comment=Power In New Comment=Supply
+Change Component Comment : Designator=J3 Old Comment=Signal New Comment=Signals Connetor
+Change Component Description : Designator=J1 Old Description=691214110002 - Wire-To-Board Terminal Block, 3.5 mm, 2 Positions, 24 AWG, 16 AWG, 1.5 mm², Screw New Description=Power Connectors ROHS
+Change Component Description : Designator=J3 Old Description=MaleHeader 6x1 New Description=1x6P XH 1 2.5mm 6 Brass Plugin,P=2.5mm Wire To Board / Wire To Wire Connector ROHS
+Change component parameters: Designator = "J1" ("J1"); Footprint = "Connector screw terminal Block TH 1x2 9.5 WJ46-B"; UniqueID = "\HCXGDECU" ("\HCXGDECU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Changzhou Amass Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "XT60PW-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C98732"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "XH-6/2.5mm"; UniqueID = "\DUOWPUVQ" ("\DUOWPUVQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "B6B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C144397"; VariantName = "[No Variations]"
+Added Room: Name=DRV8244 Motor Driver
