@@ -1,2 +1,2 @@
-# Project Pegasus 12V 20A MD
- 12V 20A Motor Driver
+# Project-Neptune32-AM32-ESC
+ 
